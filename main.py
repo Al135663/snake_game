@@ -46,15 +46,7 @@ while is_game_on:
             is_game_on = False
             scoreboard.game_over()
 
-#ecample of slicing in python:
-"""
-list_1 = ["A", "B", "C", "D", "E", "F"]
-print(list_1[2:4]) # prints c , d
-print(list_1[2:6:2]) # prints c, e item 2 till 6 with stapes of 2
-print(list_1[:3]) #prints all items till third item, not included
-print(list_1[2:]) # prints all items after second item. second item included.
-print(list_1[::-1]) # reverse the list
-"""
+
 
 
 
